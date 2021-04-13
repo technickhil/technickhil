@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technickhil&label=Profile%20views&color=0e75b6&style=flat" alt="technickhil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/technickhil" target="blank"><img src="https://img.shields.io/twitter/follow/technickhil?logo=twitter&style=for-the-badge" alt="technickhil" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584024060.jpg""
 
 - 🌱 I’m currently learning **C,C++,Python,Java and many more**
 
