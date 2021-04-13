@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Meshram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br>
+
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technickhil&label=Profile%20views&color=0e75b6&style=flat" alt="technickhil" /> </p>
 
